@@ -1,0 +1,16 @@
+PODS:
+  - MyWebView (1.0.0)
+
+DEPENDENCIES:
+  - MyWebView (from `../`)
+
+EXTERNAL SOURCES:
+  MyWebView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyWebView: fb482966d990cf1955a5f7f81f6728659220a032
+
+PODFILE CHECKSUM: c0af5bfdca7c1840d419731731b8758054b48507
+
+COCOAPODS: 1.0.1

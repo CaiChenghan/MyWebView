@@ -1,0 +1,6 @@
+framework module MyWebView {
+  umbrella header "MyWebView-umbrella.h"
+
+  export *
+  module * { export * }
+}
